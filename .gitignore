@@ -1,0 +1,28 @@
+# Environments
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+lint_output.txt
+
+# OS
+.DS_Store
